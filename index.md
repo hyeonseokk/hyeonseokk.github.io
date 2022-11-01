@@ -5,19 +5,19 @@ layout: default
 ## About Me
 
 <img class="profile-picture" src="hsmoon_resize.jpg">
-- MS/Ph.D student in the Department of Computer Science and Engineering at Korea University. 
-- Advisor: Prof. <a href="https://scholar.google.co.kr/citations?user=HMTkz7oAAAAJ&amp;hl=ko&amp;oi=ao">Heuiseok Lim</a>
-- Researcher of <a href="http://nlp.korea.ac.kr/">Natural Language Processing & Artificial Intelligence Lab</a>
+- MS/Ph.D student in the Department of Computer Science and Engineering at Korea University. (Advisor: Prof. <a href="https://scholar.google.co.kr/citations?user=HMTkz7oAAAAJ&amp;hl=ko&amp;oi=ao">Heuiseok Lim</a>)
+
+- Researcher of <a href="http://nlp.korea.ac.kr/">NLP & AI Lab</a>
 - Co-founder of <a href="http://kunmt.org/">KU-NMT Group</a>. 
 
  <!-- This is a jekyll based resume template. You can find the full source code on [GitHub] --> 
  <!-- (https://github.com/bk2dcradle/researcher) -->
 
 ## Research Interest
-Neural Machine Translation, Parallel Corpus Filtering, Domain Specialized Neural Machine Translation, Automatic Post Editing, Quality Estimation, Korean Spelling Correction, Language Resource and Evaluation, Data-Centric NMT, Language Generation
+Neural Machine Translation, Language Resource and Evaluation, Data-Centric NMT
 
 
-## Professional Experience
+## Affiliation
 2021.03 - Now: Korea University Ph.D. Student of Computer Science <br>
 2015.03 - 2021.02: Korea University Bachelor of Science and Engineering
 
@@ -154,11 +154,11 @@ Domestic Journal (KCI): 20 papers, Domestic Conference: 32 papers, International
 HeuiSeok Lim, **Korea University NLP&AI Lab** <br>
 *Human Science* -->
 
-### International Patents
+<!-- ### International Patents -->
 <!-- 1. METHOD OF BUILDING TRAINING DATA OF MACHINE TRANSLATION <br>
 HeuiSeok Lim, **Chanjun Park**<br> -->
 
-### Domestic Patents
+<!-- ### Domestic Patents -->
 <!-- 1. DEVICE AND METHOD FOR GENERATING OF TRAINING DATA FOR QUALITY ESTIMATION IN MACHINE TRANSLATION <br>
 HeuiSeok Lim, Sugyeong Eo, **Chanjun Park**, Hyeonseok Moon <br>
 
@@ -192,7 +192,7 @@ HeuiSeok Lim, **Chanjun Park** <br>
 11. Device and method for correcting Korean spelling <br>
 HeuiSeok Lim, **Chanjun Park** <br> -->
 
-## Teaching
+<!-- ## Teaching -->
 <!-- 1. [Introduction to Natural Language Processing in Big Data (BDC101)](https://github.com/Parkchanjun/KU-NLP-2020-1), Teaching Assistant, Korea Univ. (Autumn 2021) <br>
 2. [Introduction to Natural Language Processing in Big Data (BDC101)](https://github.com/Parkchanjun/KU-NLP-2020-1), Head Teaching Assistant, Korea Univ. (Autumn 2020) <br>
 3. [Natural Language Processing for Digital Finance Engineering (DFE610)](https://github.com/Parkchanjun/KU-NLP-2020-1), Head Teaching Assistant, Korea Univ. (Autumn 2020) <br>
