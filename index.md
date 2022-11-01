@@ -9,7 +9,7 @@ layout: default
 
 - Researcher of <a href="http://nlp.korea.ac.kr/">NLP & AI Lab</a>
 - Co-founder of <a href="http://kunmt.org/">KU-NMT Group</a>. 
-- [Google Scholar](https://scholar.google.com/citations?user=queGQ5UAAAAJ&hl=ko)
+- Google Scholar: [Link](https://scholar.google.com/citations?user=queGQ5UAAAAJ&hl=ko)
  <!-- This is a jekyll based resume template. You can find the full source code on [GitHub] --> 
  <!-- (https://github.com/bk2dcradle/researcher) -->
 
@@ -131,11 +131,9 @@ Chanjun Park, Woo-Young Go, Sugyeong Eo, **Hyeonseok Moon**, Seolhwa Lee, Heuise
 **Hyeonseok Moon**, Chanjun Park, Jaehyung Seo, Sugyeong Eo, Heuiseok Lim <br>
 *IEEE Access, 2022*<br>
 
-
 - [An Empirical Study on Automatic Post Editing for Neural Machine Translation](https://ieeexplore.ieee.org/document/9528385) <br>
 **Hyeonseok Moon**, Chanjun Park, Sugyeong Eo, Jaehyung Seo, Heuiseok Lim <br>
 *IEEE Access, 2021*<br>
-
 
 - [Comparative Analysis of Current Approaches to Quality Estimation for Neural Machine Translation](https://www.mdpi.com/2076-3417/11/14/6584)<br>
 Sugyeong Eo, Chanjun Park, **Hyeonseok Moon**, Jaehyung Seo, Heuiseok Lim <br>
