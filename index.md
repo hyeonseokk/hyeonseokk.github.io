@@ -4,7 +4,7 @@ layout: default
 
 ## About Me
 
-<img class="profile-picture" src="hsmoon_resize.jpg", width='250' height='YYY'>
+<img class="profile-picture" src="hsmoon_resize.jpg">
 Hi! I am a MS/Ph.D student in the Department of Computer Science and Engineering at Korea University. 
 
 My advisor is Prof. <a href="https://scholar.google.co.kr/citations?user=HMTkz7oAAAAJ&amp;hl=ko&amp;oi=ao">Heuiseok Lim</a>, and I am part of the <a href="http://nlp.korea.ac.kr/">Natural Language Processing & Artificial Intelligence Lab</a>. 
