@@ -6,16 +6,14 @@ layout: default
 
 <img class="profile-picture" src="hsmoon_resize.jpg">
 Hi! I am a MS/Ph.D student in the Department of Computer Science and Engineering at Korea University. 
-
 My advisor is Prof. <a href="https://scholar.google.co.kr/citations?user=HMTkz7oAAAAJ&amp;hl=ko&amp;oi=ao">Heuiseok Lim</a>, and I am part of the <a href="http://nlp.korea.ac.kr/">Natural Language Processing & Artificial Intelligence Lab</a>. 
-
 I am a co-founder of <a href="http://kunmt.org/">KU-NMT Group</a>. 
 
  <!-- This is a jekyll based resume template. You can find the full source code on [GitHub] --> 
  <!-- (https://github.com/bk2dcradle/researcher) -->
 
 ## Research Interest
-Neural Machine Translation, Parallel Corpus Filtering, Domain Specialized Neural Machine Translation, Simultaneous Speech Translation, Automatic Post Editing, Quality Estimation, Korean Spelling Correction, Language Resource and Evaluation
+Neural Machine Translation, Parallel Corpus Filtering, Domain Specialized Neural Machine Translation, Automatic Post Editing, Quality Estimation, Korean Spelling Correction, Language Resource and Evaluation, Data-Centric NMT, Language Generation
 
 
 ## Professional Experience
@@ -46,35 +44,35 @@ Hyeonseok Moon, **Chanjun Park**, Sugyeong Eo, Jaehyung Seo, SeungJun Lee, Heuis
 *arxiv, 2021*<br> -->
 
 ### Top Conference (Main / Workshop)
-<!-- 1. A Dog Is Passing Over The Jet? A Text-Generation Dataset for Korean Commonsense Reasoning and Evaluation <br>
-Jaehyung Seo, Seounghoon Lee, **Chanjun Park**, Yoonna Jang, Hyeonseok Moon, Sugyeong Eo, Seonmin Koo, Heuiseok Lim <br>
+- [QUAK: A Synthetic Quality Estimation Dataset for Korean-English Neural Machine Translation](https://aclanthology.org/2022.coling-1.460/) <br>
+Sugyeong Eo, Chanjun Park, **Hyeonseok Moon**, Jaehyung Seo, Gyeongmin Kim, Jungseob Lee, Heuiseok Lim <br>
+*COLING 2022, - (Poster), 2022*<br>
+
+- [A Dog Is Passing Over The Jet? A Text-Generation Dataset for Korean Commonsense Reasoning and Evaluation](https://aclanthology.org/2022.findings-naacl.172/) <br>
+Jaehyung Seo, Seounghoon Lee, Chanjun Park, Yoonna Jang, **Hyeonseok Moon**, Sugyeong Eo, Seonmin Koo, Heuiseok Lim <br>
 *NAACL 2022 - Findings, 2022*<br>
 
-1. Priming Ancient Korean Neural Machine Translation <br>
-**Chanjun Park**, Seolhwa Lee, Hyeonseok Moon, Sugyeong Eo, Jaehyung Seo, Heuiseok Lim <br>
-*LREC 2022, 2022 - (Oral presentation)*<br>
+- [A Self-Supervised Automatic Post-Editing Data Generation Tool](https://arxiv.org/abs/2111.12284) <br>
+**Hyeonseok Moon**, Chanjun Park, Sugyeong Eo, Jaehyung Seo, SeungJun Lee, Heuiseok Lim <br>
+*ICML 2022 - DataPerf AI (DCAI) workshop, 2022*<br>
 
-2. [FreeTalky: Don’t Be Afraid! Conversations Made Easier by a Humanoid Robot using Persona-based Dialogue](https://arxiv.org/abs/2112.04126) <br>
-**Chanjun Park**, Yoonna Jang, Seolhwa Lee, Sungjin Park, Heuiseok Lim<br>
-*LREC 2022, 2022 - (Poster)*<br>
+- [Empirical Analysis of Synthetic Data Generation Using Noising Strategies for Automatic Post-editing](https://aclanthology.org/2022.lrec-1.93/) <br>
+**Hyeonseok Moon**, Chanjun Park, Seolhwa Lee, Jaehyung Seo, Jeongsub Lee, Sugyeong Eo, Heuiseok Lim <br>
+*LREC 2022 - (Poster), 2022*<br>
 
-3. Empirical Analysis of Synthetic Data Generation Using Noising Strategies for Automatic Post-editing <br>
-Hyeonseok Moon, **Chanjun Park**, Seolhwa Lee, Jaehyung Seo, Jeongsub Lee, Sugyeong Eo, Heuiseok Lim <br>
-*LREC 2022, 2022 - (Poster)*<br>
+- [Priming Ancient Korean Neural Machine Translation](https://aclanthology.org/2022.lrec-1.3/) <br>
+Chanjun Park, Seolhwa Lee, **Hyeonseok Moon**, Sugyeong Eo, Jaehyung Seo, Heuiseok Lim <br>
+*LREC 2022 - (Oral presentation), 2022*<br>
 
-4. [FreeTalky: Don’t Be Afraid! Conversations Made Easier by a Humanoid Robot using Persona-based Dialogue](https://arxiv.org/abs/2112.04126) <br>
-**Chanjun Park**, Yoonna Jang, Seolhwa Lee, Sungjin Park, Heuiseok Lim<br>
-*AAAI 2022 -Artificial Intelligence for Education(AI4EDU), 2022*<br>
-
-5. [How should human translation coexist with NMT? Efficient tool for building high quality parallel corpus](https://arxiv.org/abs/2111.00191) <br>
+- [How should human translation coexist with NMT? Efficient tool for building high quality parallel corpus](https://arxiv.org/abs/2111.00191) <br>
 **Chanjun Park**, Seolhwa Lee, Hyeonseok Moon, Sugyeong Eo, Jaehyung Seo, Heuiseok Lim <br>
 *NeurIPS 2021 - Data-centric AI (DCAI) workshop, 2021*<br>
 
-6. [A New Tool for Efficiently Generating Quality Estimation Datasets](https://arxiv.org/abs/2111.00767) <br>
+- [A New Tool for Efficiently Generating Quality Estimation Datasets](https://arxiv.org/abs/2111.00767) <br>
 Sugyeong Eo, **Chanjun Park**, Jaehyung Seo, Hyeonseok Moon, Heuiseok Lim <br>
 *NeurIPS 2021 - Data-centric AI (DCAI) workshop, 2021*<br>
 
-7. [Automatic Knowledge Augmentation for Generative Commonsense Reasoning](https://arxiv.org/abs/2111.00192) <br>
+- [Automatic Knowledge Augmentation for Generative Commonsense Reasoning](https://arxiv.org/abs/2111.00192) <br>
 Jaehyung Seo, **Chanjun Park**, Sugyeong Eo, Hyeonseok Moon, Heuiseok Lim <br>
 *NeurIPS 2021 - Data-centric AI (DCAI) workshop, 2021*<br>
 
@@ -100,7 +98,7 @@ Sugyeong Eo, **Chanjun Park**, Jaehyung Seo, Hyeonseok Moon, Heuiseok Lim **(Equ
 
 13. [Should we find another model?: Improving Neural Machine Translation Performance with ONE-Piece Tokenization Method without Model Modification](https://aclanthology.org/2021.naacl-industry.13/)<br>
 **Chanjun Park**, Sugyeong Eo, Hyeonseok Moon, Heuiseok Lim<br>
-*NAACL-HLT 2021 Industry Track, 2021- (Poster/Oral presentation)*<br> -->
+*NAACL-HLT 2021 Industry Track, 2021- (Poster/Oral presentation)*<br>
 
 ### International Journal (SCI/SCIE)
 <!-- 1. Word-level Quality Estimation for Korean-English Neural Machine Translation <br>
