@@ -4,7 +4,7 @@ layout: default
 
 ## About Me
 
-<img class="profile-picture" src="hsmoon_resize.jpg">
+<img class="profile-picture" src="hsmoon_resize2.png">
 - MS/Ph.D student in the Department of Computer Science and Engineering at Korea University. (Advisor: Prof. <a href="https://scholar.google.co.kr/citations?user=HMTkz7oAAAAJ&amp;hl=ko&amp;oi=ao">Heuiseok Lim</a>)
 
 - Researcher of <a href="http://nlp.korea.ac.kr/">NLP & AI Lab</a>
