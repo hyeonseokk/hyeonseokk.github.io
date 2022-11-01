@@ -9,7 +9,7 @@ layout: default
 
 - Researcher of <a href="http://nlp.korea.ac.kr/">NLP & AI Lab</a>
 - Co-founder of <a href="http://kunmt.org/">KU-NMT Group</a>. 
-
+- [Google Scholar](https://scholar.google.com/citations?user=queGQ5UAAAAJ&hl=ko)
  <!-- This is a jekyll based resume template. You can find the full source code on [GitHub] --> 
  <!-- (https://github.com/bk2dcradle/researcher) -->
 
