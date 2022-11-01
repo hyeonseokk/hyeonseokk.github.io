@@ -19,7 +19,8 @@ Neural Machine Translation, Language Resource and Evaluation, Data-Centric NMT
 
 ## Affiliation
 2021.03 - Now: Korea University Ph.D. Student of Computer Science <br>
-2015.03 - 2021.02: Korea University B.S of Science in Mathematics \& Engineering in Artificial Intelligence
+2015.03 - 2021.02: Korea University B.S of Science in Mathematics 
+                                           Engineering in Artificial Intelligence
 
 <!-- 
 ## Academic Services
