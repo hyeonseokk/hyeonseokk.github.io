@@ -45,6 +45,22 @@ Hyeonseok Moon, **Chanjun Park**, Sugyeong Eo, Jaehyung Seo, SeungJun Lee, Heuis
 *arxiv, 2021*<br> -->
 
 ### Top Conference (Main / Workshop)
+- [Towards Diverse and Effective Question-Answer Pair Generation from Children Storybooks]([https://aclanthology.org/2022.coling-1.460/](https://aclanthology.org/2023.findings-acl.380/)) <br>
+Sugyeong Eo, **Hyeonseok Moon**, Jinsung Kim, Yuna Hur, Jeongwook Kim, SongEun Lee, Changwoo Chun, Sungsoo Park, Heuiseok Lim <br>
+*ACL 2023, - (Findings), 2023*<br>
+
+- [PEEP-Talk: A Situational Dialogue-based Chatbot for English Education]([https://aclanthology.org/2023.iwslt-1.40/](https://aclanthology.org/2023.acl-demo.18/)) <br>
+Seugnjun Lee, Yoonna Jang, Chanjun Park, Jungseob Lee, Jaehyung Seo, **Hyeonseok Moon**, Sugyeong Eo, Seounghoon Lee, Bernardo Yahya, Heuiseok Lim <br>
+*ACL 2023 - Demo Track, 2023*<br>
+
+- [Improving Formality-Sensitive Machine Translation Using Data-Centric Approaches and Prompt Engineering](https://aclanthology.org/2023.iwslt-1.40/) <br>
+Seungjun Lee, **Hyeonseok Moon**, Chanjun Park, Heuiseok Lim <br>
+*IWSLT 2023 , 2023*<br>
+
+- [QUAK: A Synthetic Quality Estimation Dataset for Korean-English Neural Machine Translation](https://aclanthology.org/2022.coling-1.460/) <br>
+Sugyeong Eo, Chanjun Park, **Hyeonseok Moon**, Jaehyung Seo, Gyeongmin Kim, Jungseob Lee, Heuiseok Lim <br>
+*COLING 2022, - (Poster), 2022*<br>
+
 - [QUAK: A Synthetic Quality Estimation Dataset for Korean-English Neural Machine Translation](https://aclanthology.org/2022.coling-1.460/) <br>
 Sugyeong Eo, Chanjun Park, **Hyeonseok Moon**, Jaehyung Seo, Gyeongmin Kim, Jungseob Lee, Heuiseok Lim <br>
 *COLING 2022, - (Poster), 2022*<br>
@@ -94,6 +110,10 @@ Sugyeong Eo, Chanjun Park, Jaehyung Seo, **Hyeonseok Moon**, Heuiseok Lim **(Equ
 *NAACL-HLT 2021 Industry Track, 2021- (Poster/Oral presentation)*<br>
 
 ### International Journal (SCI/SCIE)
+
+- [Doubts on the reliability of parallel corpus filtering]([https://www.sciencedirect.com/science/article/abs/pii/S0950705122009546](https://www.sciencedirect.com/science/article/pii/S0957417423014641)) <br>
+**Hyeonseok Moon**, Chanjun Park, Seonmin Koo, Jungseob Lee, Seungjun Lee, Jaehyung Seo, Sugyeong Eo, Yoonna Jang, Hyunjoong Kim, Hyoung-gyu Lee, Heuiseok Lim <br>
+*Expert Systems with Applications (ESWA), 2023*<br>
 
 - [PU-GEN: Enhancing generative commonsense reasoning for language models with human-centered knowledge](https://www.sciencedirect.com/science/article/abs/pii/S0950705122009546) <br>
 Jaehyung Seo, Dongsuk Oh, Sugyeong Eo, Chanjun Park, Kisu Yang, **Hyeonseok Moon**, Kinam Park, Heuiseok Lim <br>
