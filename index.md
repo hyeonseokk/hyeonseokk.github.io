@@ -45,21 +45,30 @@ Hyeonseok Moon, **Chanjun Park**, Sugyeong Eo, Jaehyung Seo, SeungJun Lee, Heuis
 *arxiv, 2021*<br> -->
 
 ### Top Conference (Main / Workshop)
-- [Towards Diverse and Effective Question-Answer Pair Generation from Children Storybooks]([https://aclanthology.org/2022.coling-1.460/](https://aclanthology.org/2023.findings-acl.380/)) <br>
+
+- [CHEF in the Language Kitchen: A Generative Data Augmentation Leveraging Korean Morpheme Ingredients]([https://aclanthology.org/2023.emnlp-main.367/])) <br>
+Jaehyung Seo, **Hyeonseok Moon**, Jaewook Lee, Sugyeong Eo, Chanjun Park, Heui-Seok Lim <br>
+*EMNLP 2023, - (Poster), 2023*<br>
+
+- [Post-hoc Utterance Refining Method by Entity Mining for Faithful Knowledge Grounded Conversations]([https://aclanthology.org/2023.emnlp-main.295/])) <br>
+Yoonna Jang, Suhyune Son, Jeongwoo Lee, Junyoung Son, Yuna Hur, Jungwoo Lim, **Hyeonseok Moon**, Kisu Yang, Heui-Seok Lim <br>
+*EMNLP 2023, - (Poster), 2023*<br>
+
+- [KEBAP: Korean Error Explainable Benchmark Dataset for ASR and Post-processing]([https://aclanthology.org/2023.emnlp-main.292/)) <br>
+Seonmin Koo, Chanjun Park, Jinsung Kim, Jaehyung Seo, Sugyeong Eo, **Hyeonseok Moon**, Heui-Seok Lim <br>
+*EMNLP 2023, - (Poster), 2023*<br>
+
+- [Towards Diverse and Effective Question-Answer Pair Generation from Children Storybooks]([https://aclanthology.org/2023.findings-acl.380/]) <br>
 Sugyeong Eo, **Hyeonseok Moon**, Jinsung Kim, Yuna Hur, Jeongwook Kim, SongEun Lee, Changwoo Chun, Sungsoo Park, Heuiseok Lim <br>
 *ACL 2023, - (Findings), 2023*<br>
 
-- [PEEP-Talk: A Situational Dialogue-based Chatbot for English Education]([https://aclanthology.org/2023.iwslt-1.40/](https://aclanthology.org/2023.acl-demo.18/)) <br>
+- [PEEP-Talk: A Situational Dialogue-based Chatbot for English Education]([https://aclanthology.org/2023.acl-demo.18/]) <br>
 Seugnjun Lee, Yoonna Jang, Chanjun Park, Jungseob Lee, Jaehyung Seo, **Hyeonseok Moon**, Sugyeong Eo, Seounghoon Lee, Bernardo Yahya, Heuiseok Lim <br>
 *ACL 2023 - Demo Track, 2023*<br>
 
 - [Improving Formality-Sensitive Machine Translation Using Data-Centric Approaches and Prompt Engineering](https://aclanthology.org/2023.iwslt-1.40/) <br>
 Seungjun Lee, **Hyeonseok Moon**, Chanjun Park, Heuiseok Lim <br>
 *IWSLT 2023 , 2023*<br>
-
-- [QUAK: A Synthetic Quality Estimation Dataset for Korean-English Neural Machine Translation](https://aclanthology.org/2022.coling-1.460/) <br>
-Sugyeong Eo, Chanjun Park, **Hyeonseok Moon**, Jaehyung Seo, Gyeongmin Kim, Jungseob Lee, Heuiseok Lim <br>
-*COLING 2022, - (Poster), 2022*<br>
 
 - [QUAK: A Synthetic Quality Estimation Dataset for Korean-English Neural Machine Translation](https://aclanthology.org/2022.coling-1.460/) <br>
 Sugyeong Eo, Chanjun Park, **Hyeonseok Moon**, Jaehyung Seo, Gyeongmin Kim, Jungseob Lee, Heuiseok Lim <br>
