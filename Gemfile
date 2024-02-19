@@ -1,7 +1,9 @@
 source 'https://rubygems.org'
+
 group :jekyll_plugins do
     gem 'classifier-reborn'
-    gem 'jekyll'
+    gem 'jekyll', "~> 4.2"
+    gem "jekyll-timeago", "~> 0.13.1"
     gem 'jekyll-archives'
     gem 'jekyll-email-protect'
     gem 'jekyll-feed'
