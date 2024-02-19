@@ -9,7 +9,7 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    Researcher in <a href='http://nlp.korea.ac.kr/'>NIP&AI Lab</a>
+    Researcher in <a href='http://nlp.korea.ac.kr/'>NIP&AI</a>
     Cofounder of <a href='https://kunmt.org/'>KU-NMT Group</a>
 
 
