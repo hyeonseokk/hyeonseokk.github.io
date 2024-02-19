@@ -19,8 +19,10 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Artificial Intelligence, 
+**Research Interest**
 
-Natural Language Processing
+- Artificial Intelligence 
 
-Machine Translation & Language Generation
+- Natural Language Processing
+
+- Machine Translation & Language Generation
