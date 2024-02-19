@@ -9,8 +9,7 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    Researcher in <a href='http://nlp.korea.ac.kr/'>NIP&AI</a>
-    Cofounder of <a href='https://kunmt.org/'>KU-NMT Group</a>
+    
 
 
 news: true # includes a list of news items
@@ -18,6 +17,11 @@ latest_posts: true # includes a list of the newest posts
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
+- Researcher of <a href='http://nlp.korea.ac.kr/'>NIP&AI</a>
+- Cofounder of <a href='https://kunmt.org/'>KU-NMT Group</a>
+
+
+ 
 
 **Research Interest**
 
