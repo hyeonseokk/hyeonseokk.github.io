@@ -19,3 +19,12 @@ nav_order: 2
 {% bibliography --file journals %}
 </div>
 
+[//]: # (## Other Works)
+
+[//]: # (<!-- _pages/publications.md -->)
+
+[//]: # (<div class="publications">)
+
+[//]: # ({% bibliography --file other_works %})
+
+[//]: # (</div>)
