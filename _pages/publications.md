@@ -10,14 +10,6 @@ nav_order: 2
 <!-- _pages/publications.md -->
 <div class="publications">
 
-The default Bibliography
-------------------------
-
-{% bibliography --file Conference %}
-
-Secondary References
---------------------
-
 {% bibliography --file Domestic %}
 
 </div>
