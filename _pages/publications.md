@@ -7,14 +7,15 @@ nav: true
 nav_order: 2
 ---
 
-## 1111
+## Top Conference
 <!-- _pages/publications.md -->
 <div class="publications">
-{% bibliography %}
+{% bibliography --file papers %}
 </div>
 
-## 2222
+## International Journal
 <!-- _pages/publications.md -->
 <div class="publications">
-{% bibliography --file example %}
+{% bibliography --file journals %}
 </div>
+

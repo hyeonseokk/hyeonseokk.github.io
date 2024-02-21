@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Korea University</a>. Ph.D. Candidate in Computer Science
+subtitle: <a href='https://portal.korea.ac.kr/'>Korea University</a>. Ph.D. Candidate in Computer Science
 
 profile:
   align: right
@@ -15,9 +15,11 @@ profile:
 news: false # includes a list of news items
 latest_posts: false # includes a list of the newest posts
 selected_papers: true # includes a list of papers marked as "selected={true}"
-social: false # includes social icons at the bottom of the page
+social: true # includes social icons at the bottom of the page
 ---
-- Researcher of <a href='http://nlp.korea.ac.kr/'>NIP&AI</a>
+
+Advised by Prof. <a href='https://scholar.google.com/citations?user=HMTkz7oAAAAJ&hl=ko&oi=ao'>Heuiseok Lim</a>
+- Researcher of <a href='http://nlp.korea.ac.kr/'>NIP&AI Research</a>
 - Cofounder of <a href='https://kunmt.org/'>KU-NMT Group</a>
 
 
