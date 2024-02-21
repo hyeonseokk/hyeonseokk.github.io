@@ -12,16 +12,14 @@ profile:
     
 
 
-news: true # includes a list of news items
-latest_posts: true # includes a list of the newest posts
+news: false # includes a list of news items
+latest_posts: false # includes a list of the newest posts
 selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true # includes social icons at the bottom of the page
+social: false # includes social icons at the bottom of the page
 ---
 - Researcher of <a href='http://nlp.korea.ac.kr/'>NIP&AI</a>
 - Cofounder of <a href='https://kunmt.org/'>KU-NMT Group</a>
 
-
-In Processing...👷‍
 
 ## **Research Interest**
 
