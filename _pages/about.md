@@ -27,4 +27,6 @@ social: false # includes social icons at the bottom of the page
 
 - Natural Language Processing
 
-- Machine Translation & Language Generation
+- Machine Translation 
+
+- Language Generation
