@@ -14,10 +14,15 @@ nav_order: 2
 
 {% bibliography %}
 
-# 2222
 
+</div>
+
+---
+title: Post 2
+---
+
+#1 2222
+<div class="publications2">
 {% bibliography --file example %}
-
-
 </div>
 
