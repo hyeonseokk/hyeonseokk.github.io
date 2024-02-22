@@ -11,7 +11,7 @@ profiles:
   # and create one content file for each profile inside _pages/
   - align: right
     image: prof_pic.jpg
-    content: ../__projects/project_hyundai.md
+    content: project_hyundai.md
     image_circular: false # crops the image to make it circular
     more_info: >
       <p>555 your office number</p>
