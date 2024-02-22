@@ -2,7 +2,7 @@
 layout: profiles
 permalink: /people/
 title: projects
-description: Inter-Company Colloraborative Projects
+description: Inter-Company Collaborative Projects
 nav: true
 nav_order: 7
 
@@ -11,7 +11,7 @@ profiles:
   # and create one content file for each profile inside _pages/
   - align: right
     image: prof_pic.jpg
-    content: about_einstein.md
+    content: ../__projects/project_hyundai.md
     image_circular: false # crops the image to make it circular
     more_info: >
       <p>555 your office number</p>
