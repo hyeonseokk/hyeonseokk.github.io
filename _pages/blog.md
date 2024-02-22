@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /blog/
-title: publications
+title: project
 description: Natural Language Processing
 nav: true
 nav_order: 1
