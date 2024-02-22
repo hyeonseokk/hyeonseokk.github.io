@@ -1,7 +1,7 @@
 ---
 ## 2022
 
-### **Hyundai Motors**
+### Hyundai Motors
 (2021.12 ~ 2022.06)
 #### Subject:
 #### Role: 
@@ -12,7 +12,7 @@
 ---
 ## 2021
 
-### **Naver Papago**
+### Naver Papago
 (2021.12 ~ 2022.06) 
 #### Subject: 
 #### Role:
@@ -23,7 +23,7 @@
 ---
 ## 2020
 
-### **National Security Research Institute**
+### National Security Research Institute
 (2021.12 ~ 2022.06) 
 #### Subject: 
 #### Role:
