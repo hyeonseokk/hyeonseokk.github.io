@@ -1,8 +1,8 @@
 ---
 layout: profiles
 permalink: /people/
-title: people
-description: members of the lab or group
+title: projects
+description: Inter-Company Colloraborative Projects
 nav: true
 nav_order: 7
 
