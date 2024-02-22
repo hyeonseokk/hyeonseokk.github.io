@@ -2,10 +2,11 @@
 layout: page
 permalink: /publications/
 title: publications
-description: Mainly focusing on the **Natural Language Processing**
+description: 
 nav: true
 nav_order: 1
 ---
+Mainly focusing on the **Natural Language Processing**
 
 ## Top Conference & International Journal
 <!-- _pages/publications.md -->
