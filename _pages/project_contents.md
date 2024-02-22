@@ -1,8 +1,7 @@
 
----
 ## 2022
 
-### Hyundai Motors
+### **Hyundai Motors**
 (2021.12 ~ 2022.06)
 #### Subject:d
 #### Role: d
