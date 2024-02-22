@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /publications/
+permalink: /blog/
 title: publications
 description: Natural Language Processing
 nav: true
