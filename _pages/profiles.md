@@ -1,8 +1,8 @@
 ---
 layout: profiles
 permalink: /people/
-title: project
-description: 👷 In process 👷‍️
+title: projects
+description: Inter-Company Collaborative projects 👷 In process 👷‍️
 nav: true
 nav_order: 7
 
