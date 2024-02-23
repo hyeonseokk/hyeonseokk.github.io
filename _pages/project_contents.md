@@ -3,11 +3,11 @@
 
 #### **User Query based Recommendation System**
 <div style="text-align: right"> (2022.03 ~ 2023.01) </div>
-- **Researcher** at **Korea University** <span style="color:blue">[Leading Technician]</span>.
+- <span style="color:blue">**Leading Technician**</span> at **Korea University**
 - Supported by **FLES corporation**
 - Information Retrieval, Recommendation System, Linguistic Approach
 
-#### **Fortune Telling AI Project**
+#### **Fortune Telling Generation AI Project**
 <div style="text-align: right"> (2022.03 ~ 2023.01) </div>
 - **Researcher** at **Korea University** <span style="color:blue">[Leading Technician]</span>.
 - Supported by **FLES corporation**
@@ -18,6 +18,19 @@
 - **Researcher** at **Korea University**
 - Supported by **Hyundai Motors**
 - Prompt Engineering, Few-shot Learning, Natural Language Understanding
+
+#### **Long-Form Specializing Question Answering System**
+<div style="text-align: right"> (2022.05 ~ 2022.07) </div>
+- **Researcher** at **Korea University**
+- Supported by **ETRI**
+- Question Answering, Information Retrieval, Long Form Text
+
+#### **Long-Form Specializing Question Answering System**
+<div style="text-align: right"> (2022.07 ~ 2023.03) </div>
+- **Researcher** at **Korea University**
+- Supported by **ETRI**
+- Question Answering, Information Retrieval, Long Form Text
+
 
 ---
 # **2021**
