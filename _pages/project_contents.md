@@ -1,5 +1,5 @@
 ---
-# ** - 2024 - **
+# **- 2024 -**
 
 #### **NLP for Ancient Korean Common Literati Document - Phase 3**
 <div style="text-align: right"> (2024.03 ~ ) </div>
@@ -13,7 +13,7 @@
 - Large Langauge Model, Instruction Tuning
 
 ---
-# ** - 2023 - **
+# **- 2023 -**
 
 #### **Teaching Assistant: NLP for digital finance engineering (DFE610-00)**
 <div style="text-align: right"> (2023.09 ~ 2023.12) </div>
@@ -21,7 +21,7 @@
 
 #### **NLP for Ancient Korean Common Literati Document - Phase 2**
 <div style="text-align: right"> (2023.03 ~ 2024.02) </div>
-- **Project Manager** at **Korea University**
+- **- <span style="color:#9B4444">Project Manager</span>** at **Korea University**
 - Supported by [[**National Research Foundation**]]
 - Named Entity Recognition, Document Analysis, Data Curation
 
@@ -43,7 +43,7 @@
 - Automated Subtitle Generation System
 
 ---
-# ** - 2022 - **
+# **- 2022 -**
 
 #### **User Query based Recommendation System**
 <div style="text-align: right"> (2022.03 ~ 2023.01) </div>
@@ -53,7 +53,7 @@
 
 #### **Fortune Telling Generation AI Project**
 <div style="text-align: right"> (2022.03 ~ 2023.01) </div>
-- **- <span style="color:#1B3C73">Leading Technician</span>** at **Korea University**
+- **- <span style="color:#9F70FD">Leading Technician</span>** at **Korea University**
 - Supported by **FLES corporation**
 - Fortune Telling, Natural Language Generation, Sentence Reorganization
 
@@ -88,7 +88,7 @@
 - Named Entity Recognition, Document Analysis, Data Curation
 
 ---
-# ** - 2021 - **
+# **- 2021 -**
 
 #### **Parallel Corpus Filtering and Mining Research Project**
 <div style="text-align: right"> (2021.12 ~ 2022.07) </div>
