@@ -2,29 +2,40 @@
 # **2022**
 
 #### **Korean-Prompt-based Engineering for Few-shot Research Project**
-<div dir="rtl">(2021.12 ~ 2022.06)</div>
-<span style="color:blue">some *blue* text</span>.
-<div style="text-align: right"> your-text-here </div>
-- Supported by **Hyundai Motors** 
+<div style="text-align: right"> (2022.05 ~ 2022.07) </div>
 - **Researcher** at **Korea University**
+- Supported by **Hyundai Motors**
 - Prompt Engineering, Few-shot Learning, Natural Language Understanding
 
 ---
 # **2021**
 
 ### **Parallel Corpus Filtering and Mining Research Project**
-<div dir="rtl">(2021.12 ~ 2022.06)</div>
-- Supported by **Naver Papago** 
+<div style="text-align: right"> (2021.12 ~ 2022.07) </div>
+- **Leading Technician** at **Korea University**
+- Supported by **Naver Papago**
+- Skill: Machine Translation, Parallel Corpus Filtering, Domain Specialization
+
+### **Development of patent document invention sentence extraction and key phrase extraction module**
+<div style="text-align: right"> (2021.06 ~ 2022.10) </div>
+- **Leading Technician** at **Korea University**
+- Supported by **LG Innotek**
+- Skill: Automatic Summarization, Sentence classification, Information Extraction
+
+### **Hybrid Retriever System for Industrial Frequently Asked Question**
+<div style="text-align: right"> (2021.06 ~ 2022.10) </div>
 - **Researcher** at **Korea University**
-- Skill: Prompt Engineering, Few-shot Learning, Natural Language Understanding
+- Supported by **Data Voucher (O2O cooperation)**
+- Skill: Information Retrieval
+
+
 
 ---
 # **2020**
 
-### National Security Research Institute
-(2021.12 ~ 2022.06) 
-#### Subject: d
-#### Role:d
-#### Contents: d
-- dd
-- dd
+#### **Security Domain Specialized Neural Machine Translation**
+<div style="text-align: right"> (2020.05 ~ 2020.07) </div>
+- **Researcher** at **Korea University**
+- Supported by **National Security Research Institute**
+- Machine Translation, Domain Specialization, Low Resource Setting
+
