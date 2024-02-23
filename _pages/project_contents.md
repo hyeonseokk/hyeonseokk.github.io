@@ -18,20 +18,17 @@
 - **<span style="color:#474F7A">Researcher</span>** at **Korea University**
 - Large Langauge Model, Instruction Tuning
 
-
-
 ---
 # **2023 ~**
+
+#### **Multi-lingual Automated YouTube Subtitle Generation and Interpretation Companion**
+<div style="color:#B5C0D0; text-align:right; font-weight:bold; font-style:italic;">Completed (2023.10 ~ 2023.12)</div>
+- **<span style="color:#474F7A">Researcher</span>** at **Korea University**
+- Automated Subtitle Generation System
 
 #### **Teaching Assistant: NLP for digital finance engineering (DFE610-00)**
 <div style="color:#B5C0D0; text-align:right; font-weight:bold; font-style:italic;">Completed (2023.09 ~ 2023.12)</div>
 - **TA** at **Korea University**
-
-#### **NLP for Ancient Korean Common Literati Document - Phase 2**
-<div style="color:#B5C0D0; text-align:right; font-weight:bold; font-style:italic;">Completed (2023.03 ~ 2024.02)</div>
-- **<span style="color:#9B4444">Project Manager</span>** at **Korea University**
-- Supported by [[ **National Research Foundation** ]]
-- Named Entity Recognition, Document Analysis, Data Curation
 
 #### **Instruction Tuning for Korean Large Language Models**
 <div style="color:#637A9F; text-align:right; font-weight:bold; font-style:italic;">In Progress (2023.08 ~ )</div>
@@ -45,25 +42,26 @@
 - Supported by [[ **NC Soft** ]]
 - k-Nearest-Neighbor Language Modeling, Persona-based Dialogue System
 
-#### **Multi-lingual Automated YouTube Subtitle Generation and Interpretation Companion**
-<div style="color:#B5C0D0; text-align:right; font-weight:bold; font-style:italic;">Completed (2023.10 ~ 2023.12)</div>
-- **<span style="color:#474F7A">Researcher</span>** at **Korea University**
-- Automated Subtitle Generation System
+#### **NLP for Ancient Korean Common Literati Document - Phase 2**
+<div style="color:#B5C0D0; text-align:right; font-weight:bold; font-style:italic;">Completed (2023.03 ~ 2024.02)</div>
+- **<span style="color:#9B4444">Project Manager</span>** at **Korea University**
+- Supported by [[ **National Research Foundation** ]]
+- Named Entity Recognition, Document Analysis, Data Curation
 
 ---
 # **2022 ~**
 
-#### **User Query based Recommendation System**
-<div style="color:#B5C0D0; text-align:right; font-weight:bold; font-style:italic;">Completed (2022.03 ~ 2023.01)</div>
-- **<span style="color:#9F70FD">Leading Technician</span>** at **Korea University**
-- Supported by [[ **FLES corporation** ]]
-- Information Retrieval, Recommendation System, Linguistic Approach
+#### **Domain Specialized Parallel Corpus Construction for Machine Translation**
+<div style="color:#B5C0D0; text-align:right; font-weight:bold; font-style:italic;">Completed (2022.06 ~ 2023.11)</div>
+- **<span style="color:#9B4444">Project Manager</span>** at **Korea University**
+- Supported by [[ **Minigate Corporation** ]]
+- Machine Translation, Data Analysis, Automated Evaluation
 
-#### **Fortune Telling Generation AI Project**
-<div style="color:#B5C0D0; text-align:right; font-weight:bold; font-style:italic;">Completed (2022.03 ~ 2023.01)</div>
-- **<span style="color:#9F70FD">Leading Technician</span>** at **Korea University**
-- Supported by [[ **FLES corporation** ]]
-- Fortune Telling, Natural Language Generation, Sentence Reorganization
+#### **NLP for Ancient Korean Common Literati Document - Phase 1**
+<div style="color:#B5C0D0; text-align:right; font-weight:bold; font-style:italic;">Completed (2022.06 ~ 2023.02)</div>
+- **<span style="color:#9B4444">Project Manager</span>** at **Korea University**
+- Supported by [[ **National Research Foundation** ]]
+- Named Entity Recognition, Document Analysis, Data Curation
 
 #### **Korean-Prompt-based Engineering for Few-shot Research Project**
 <div style="color:#B5C0D0; text-align:right; font-weight:bold; font-style:italic;">Completed (2022.05 ~ 2022.07)</div>
@@ -83,17 +81,17 @@
 - Supported by [[ **Hyundai Motors** ]]
 - Question Answering, Automated Data Construction, Education Specialized
 
-#### **Domain Specialized Parallel Corpus Construction for Machine Translation**
-<div style="color:#B5C0D0; text-align:right; font-weight:bold; font-style:italic;">Completed (2022.06 ~ 2023.11)</div>
-- **<span style="color:#9B4444">Project Manager</span>** at **Korea University**
-- Supported by [[ **Minigate Corporation** ]]
-- Machine Translation, Data Analysis, Automated Evaluation
+#### **User Query based Recommendation System**
+<div style="color:#B5C0D0; text-align:right; font-weight:bold; font-style:italic;">Completed (2022.03 ~ 2023.01)</div>
+- **<span style="color:#9F70FD">Leading Technician</span>** at **Korea University**
+- Supported by [[ **FLES corporation** ]]
+- Information Retrieval, Recommendation System, Linguistic Approach
 
-#### **NLP for Ancient Korean Common Literati Document - Phase 1**
-<div style="color:#B5C0D0; text-align:right; font-weight:bold; font-style:italic;">Completed (2022.06 ~ 2023.02)</div>
-- **<span style="color:#9B4444">Project Manager</span>** at **Korea University**
-- Supported by [[ **National Research Foundation** ]]
-- Named Entity Recognition, Document Analysis, Data Curation
+#### **Fortune Telling Generation AI Project**
+<div style="color:#B5C0D0; text-align:right; font-weight:bold; font-style:italic;">Completed (2022.03 ~ 2023.01)</div>
+- **<span style="color:#9F70FD">Leading Technician</span>** at **Korea University**
+- Supported by [[ **FLES corporation** ]]
+- Fortune Telling, Natural Language Generation, Sentence Reorganization
 
 ---
 # **2021 ~**
@@ -102,25 +100,25 @@
 <div style="color:#B5C0D0; text-align:right; font-weight:bold; font-style:italic;">Completed (2021.12 ~ 2022.07)</div>
 - **<span style="color:#9F70FD">Leading Technician</span>** at **Korea University**
 - Supported by [[ **Naver Papago** ]]
-- Skill: Machine Translation, Parallel Corpus Filtering, Domain Specialization
-
-#### **Development of patent document invention sentence extraction and key phrase extraction module**
-<div style="color:#B5C0D0; text-align:right; font-weight:bold; font-style:italic;">Completed (2021.06 ~ 2022.10)</div>
-- **<span style="color:#9F70FD">Leading Technician</span>** at **Korea University**
-- Supported by [[ **LG Innotek** ]]
-- Skill: Automatic Summarization, Sentence classification, Information Extraction
+- Machine Translation, Parallel Corpus Filtering, Domain Specialization
 
 #### **Hybrid Retriever System for Industrial Frequently Asked Question**
 <div style="color:#B5C0D0; text-align:right; font-weight:bold; font-style:italic;">Completed (2021.07 ~ 2022.03)</div>
 - **<span style="color:#474F7A">Researcher</span>** at **Korea University**
 - Supported by [[ **Data Voucher (O2O corporation)** ]]
-- Skill: Information Retrieval
+- Information Retrieval
 
 #### **Return on Advertising Spend (ROAS) Prediction Module**
 <div style="color:#B5C0D0; text-align:right; font-weight:bold; font-style:italic;">Completed (2021.07 ~ 2022.03)</div>
 - **<span style="color:#9F70FD">Leading Technician</span>** at **Korea University**
 - Supported by [[ **Data Voucher (BizSpring corporation)** ]]
-- Skill: Keyword Extraction, Return on Advertising Spend, Regression Model
+- Keyword Extraction, Return on Advertising Spend, Regression Model
+
+#### **Development of patent document invention sentence extraction and key phrase extraction module**
+<div style="color:#B5C0D0; text-align:right; font-weight:bold; font-style:italic;">Completed (2021.06 ~ 2022.10)</div>
+- **<span style="color:#9F70FD">Leading Technician</span>** at **Korea University**
+- Supported by [[ **LG Innotek** ]]
+- Automatic Summarization, Sentence classification, Information Extraction
 
 ---
 # **2020 ~**
