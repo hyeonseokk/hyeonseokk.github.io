@@ -27,10 +27,10 @@
 - k-Nearest-Neighbor Language Modeling, Persona-based Dialogue System
 
 #### **Multi-lingual Automated YouTube Subtitle Generation and Interpretation Companion**
-<div style="text-align: right"> (2023.10 ~ 2023.12) </div>
+<div style="color:#B5C0D0; text-align:right;">(2023.10 ~ 2023.12)</div>
 - **Researcher** at **Korea University**
 - Automated Subtitle Generation System
-
+B5C0D0
 ---
 # ** -- 2022 -- **
 
