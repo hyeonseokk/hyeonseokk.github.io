@@ -2,19 +2,19 @@
 # **2024 ~**
 
 #### **NLP for Ancient Korean Common Literati Document - Phase 3**
-<div style="color:#C68484; text-align:right; font-weight:bold; font-style:italic;">In Progress (2024.02 ~ )</div>
+<div style="color:#637A9F; text-align:right; font-weight:bold; font-style:italic;">In Progress (2024.02 ~ )</div>
 - **<span style="color:#9B4444">Project Manager</span>** at **Korea University**
 - Supported by [[ **National Research Foundation** ]]
 - Named Entity Recognition, Document Analysis, Data Curation
 
 #### **Domain Specialized Large Language Model with RAG System**
-<div style="color:#C68484; text-align:right; font-weight:bold; font-style:italic;">In Progress (2024.02 ~ )</div>
+<div style="color:#637A9F; text-align:right; font-weight:bold; font-style:italic;">In Progress (2024.02 ~ )</div>
 - **<span style="color:#474F7A">Researcher</span>** at **Korea University**
 - Supported by [[ **URP Corporation** ]]
 - Large Language Model, Retrieval Augmented Generation, Information Retrieval, Domain Speicalization
 
 #### **KULLM_v2 - Korean Large Language Model**
-<div style="color:#C68484; text-align:right; font-weight:bold; font-style:italic;">In Progress (2024.01 ~ )</div>
+<div style="color:#637A9F; text-align:right; font-weight:bold; font-style:italic;">In Progress (2024.01 ~ )</div>
 - **<span style="color:#474F7A">Researcher</span>** at **Korea University**
 - Large Langauge Model, Instruction Tuning
 
@@ -34,7 +34,7 @@
 - Named Entity Recognition, Document Analysis, Data Curation
 
 #### **Instruction Tuning for Korean Large Language Models**
-<div style="color:#C68484; text-align:right; font-weight:bold; font-style:italic;">In Progress (2023.08 ~ )</div>
+<div style="color:#637A9F; text-align:right; font-weight:bold; font-style:italic;">In Progress (2023.08 ~ )</div>
 - **<span style="color:#474F7A">Researcher</span>** at **Korea University**
 - Supported by [[ **Hyundai Motors** ]]
 - Instruction Tuning, Data Curation, Large Language Model
