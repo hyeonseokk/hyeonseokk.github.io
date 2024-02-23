@@ -1,10 +1,10 @@
----
-# **- 2024 -**
+
+# **2024 ~**
 
 #### **NLP for Ancient Korean Common Literati Document - Phase 3**
 <div style="color:#C68484; text-align:right; font-weight:bold; font-style:italic;">In Progress (2024.02 ~ )</div>
 - **Project Manager** at **Korea University**
-- Supported by [[**National Research Foundation**]]
+- Supported by [[ **National Research Foundation** ]]
 - Named Entity Recognition, Document Analysis, Data Curation
 
 #### **Domain Specialized Large Language Model with RAG System**
@@ -21,7 +21,7 @@
 
 
 ---
-# **- 2023 -**
+# **2023 ~**
 
 #### **Teaching Assistant: NLP for digital finance engineering (DFE610-00)**
 <div style="text-align: right"> (2023.09 ~ 2023.12) </div>
@@ -51,7 +51,7 @@
 - Automated Subtitle Generation System
 
 ---
-# **- 2022 -**
+# **2022 ~**
 
 #### **User Query based Recommendation System**
 <div style="text-align: right"> (2022.03 ~ 2023.01) </div>
@@ -96,7 +96,7 @@
 - Named Entity Recognition, Document Analysis, Data Curation
 
 ---
-# **- 2021 -**
+# **2021 ~**
 
 #### **Parallel Corpus Filtering and Mining Research Project**
 <div style="text-align: right"> (2021.12 ~ 2022.07) </div>
@@ -123,7 +123,7 @@
 - Skill: Keyword Extraction, Return on Advertising Spend, Regression Model
 
 ---
-# **2020**
+# **2020 ~**
 
 #### **Security Domain Specialized Neural Machine Translation**
 <div style="text-align: right"> (2020.05 ~ 2020.07) </div>
