@@ -23,11 +23,16 @@
 - Skill: Automatic Summarization, Sentence classification, Information Extraction
 
 ### **Hybrid Retriever System for Industrial Frequently Asked Question**
-<div style="text-align: right"> (2021.06 ~ 2022.10) </div>
-- **Researcher** at **Korea University**
-- Supported by **Data Voucher (O2O cooperation)**
+<div style="text-align: right"> (2021.07 ~ 2022.03) </div>
+- **Researcher** at **Korea University** <span style="color:blue">[*Leading Technician*]</span>.
+- Supported by **Data Voucher (O2O coperation)**
 - Skill: Information Retrieval
 
+### **Hybrid Retriever System for Industrial Frequently Asked Question**
+<div style="text-align: right"> (2021.07 ~ 2022.03) </div>
+- **Researcher** at **Korea University**
+- Supported by **Data Voucher (O2O coperation)**
+- Skill: Information Retrieval
 
 
 ---
