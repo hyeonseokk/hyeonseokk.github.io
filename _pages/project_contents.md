@@ -1,7 +1,7 @@
-
+---
 # ** -- 2024 -- **
 
-
+---
 # ** -- 2023 -- **
 
 #### **Teaching Assistant: NLP for digital finance engineering (DFE610-00)**
@@ -31,17 +31,18 @@
 - **Researcher** at **Korea University**
 - Automated Subtitle Generation System
 
+---
 # ** -- 2022 -- **
 
 #### **User Query based Recommendation System**
 <div style="text-align: right"> (2022.03 ~ 2023.01) </div>
-**- <span style="color:blue">Leading Technician</span>** at **Korea University**
+- **- <span style="color:#40679E">Leading Technician</span>** at **Korea University**
 - Supported by **FLES corporation**
 - Information Retrieval, Recommendation System, Linguistic Approach
 
 #### **Fortune Telling Generation AI Project**
 <div style="text-align: right"> (2022.03 ~ 2023.01) </div>
-- **Researcher** at **Korea University** <span style="color:blue">[Leading Technician]</span>.
+- **- <span style="color:#1B3C73">Leading Technician</span>** at **Korea University**
 - Supported by **FLES corporation**
 - Fortune Telling, Natural Language Generation, Sentence Reorganization
 
