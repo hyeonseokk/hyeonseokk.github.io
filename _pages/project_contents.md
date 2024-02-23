@@ -1,5 +1,6 @@
 
 # **2024 ~**
+<br>
 
 #### **NLP for Ancient Korean Common Literati Document - Phase 3**
 <div style="color:#637A9F; text-align:right; font-weight:bold; font-style:italic;">In Progress (2024.02 ~ )</div>
@@ -20,6 +21,7 @@
 
 ---
 # **2023 ~**
+<br>
 
 #### **Multi-lingual Automated YouTube Subtitle Generation and Interpretation Companion**
 <div style="color:#B5C0D0; text-align:right; font-weight:bold; font-style:italic;">Completed (2023.10 ~ 2023.12)</div>
@@ -50,6 +52,7 @@
 
 ---
 # **2022 ~**
+<br>
 
 #### **Domain Specialized Parallel Corpus Construction for Machine Translation**
 <div style="color:#B5C0D0; text-align:right; font-weight:bold; font-style:italic;">Completed (2022.06 ~ 2023.11)</div>
@@ -95,6 +98,7 @@
 
 ---
 # **2021 ~**
+<br>
 
 #### **Parallel Corpus Filtering and Mining Research Project**
 <div style="color:#B5C0D0; text-align:right; font-weight:bold; font-style:italic;">Completed (2021.12 ~ 2022.07)</div>
@@ -122,6 +126,7 @@
 
 ---
 # **2020 ~**
+<br>
 
 #### **Security Domain Specialized Neural Machine Translation**
 <div style="color:#B5C0D0; text-align:right; font-weight:bold; font-style:italic;">Completed (2020.05 ~ 2020.07)</div>
