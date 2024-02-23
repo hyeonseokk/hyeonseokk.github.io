@@ -7,6 +7,13 @@
 - Supported by **Hyundai Motors**
 - Prompt Engineering, Few-shot Learning, Natural Language Understanding
 
+### **Korean-Prompt-based Engineering for Few-shot Research Project**
+<div style="text-align: right"> (2021.07 ~ 2022.03) </div>
+- **Researcher** at **Korea University**
+- Supported by **Data Voucher (O2O coperation)**
+- Skill: Keyword Extraction, Return on Advertising Spend, Regression Model
+
+
 ---
 # **2021**
 
@@ -25,14 +32,15 @@
 ### **Hybrid Retriever System for Industrial Frequently Asked Question**
 <div style="text-align: right"> (2021.07 ~ 2022.03) </div>
 - **Researcher** at **Korea University** <span style="color:blue">[*Leading Technician*]</span>.
-- Supported by **Data Voucher (O2O coperation)**
+- Supported by **Data Voucher (O2O corporation)**
 - Skill: Information Retrieval
 
-### **Hybrid Retriever System for Industrial Frequently Asked Question**
+### **Return on Advertising Spend (ROAS) Prediction Module**
 <div style="text-align: right"> (2021.07 ~ 2022.03) </div>
-- **Researcher** at **Korea University**
-- Supported by **Data Voucher (O2O coperation)**
-- Skill: Information Retrieval
+- **Researcher** at **Korea University** <span style="color:blue">[*Leading Technician*]</span>.
+- Supported by **Data Voucher (BizSpring corporation)**
+- Skill: Keyword Extraction, Return on Advertising Spend, Regression Model
+
 
 
 ---
