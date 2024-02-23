@@ -23,7 +23,7 @@ Advised by Prof. <a href='https://scholar.google.com/citations?user=HMTkz7oAAAAJ
 - Cofounder of <a href='https://kunmt.org/'>KU-NMT Group</a>
 
 #### **Education**
-- **2024.02. - now ** Ph.D candidate in Computer Science at Korea University, South Korea
+- **2024.02. - now** Ph.D candidate in Computer Science at Korea University, South Korea
 - **2015.03. - 2021.02.** B.A Degree of Science in Mathematics at Korea University, South Korea
 - **2015.03. - 2021.02.** B.A Degree of Science in Artificial Intelligence at Korea University, South Korea
 
