@@ -1,9 +1,33 @@
 
+# **2023**
+
+#### **Teaching Assistant: NLP for digital finance engineering (DFE610-00)**
+<div style="text-align: right"> (2023.09 ~ 2023.12) </div>
+- **TA** at **Korea University**
+
+#### **NLP for Ancient Korean Common Literati Document - Phase 2**
+<div style="text-align: right"> (2023.03 ~ 2024.02) </div>
+- **Project Manager** at **Korea University**
+- Supported by **National Research Foundation**
+- Named Entity Recognition, Document Analysis, Data Curation
+
+#### **Instruction Tuning for Korean Large Language Models**
+<div style="text-align: right"> (2023.08 ~ ) </div>
+- **Researcher** at **Korea University**
+- Supported by **Hyundai Motors**
+- Instruction Tuning, Data Curation, Large Language Model
+
+#### **Persona-based Dialogue with k-Nearest-Neighbor Approach**
+<div style="text-align: right"> (2023.05 ~ 2023.12) </div>
+- **Researcher** at **Korea University**
+- Supported by **NC Soft**
+- k-Nearest-Neighbor Language Modeling, Persona-based Dialogue System
+
 # **2022**
 
 #### **User Query based Recommendation System**
 <div style="text-align: right"> (2022.03 ~ 2023.01) </div>
-- <span style="color:blue">**Leading Technician**</span> at **Korea University**
+**- <span style="color:blue">Leading Technician</span>** at **Korea University**
 - Supported by **FLES corporation**
 - Information Retrieval, Recommendation System, Linguistic Approach
 
@@ -32,17 +56,16 @@
 - Question Answering, Automated Data Construction, Education Specialized
 
 #### **Domain Specialized Parallel Corpus Construction for Machine Translation**
-<div style="text-align: right"> (2022.07 ~ 2023.03) </div>
+<div style="text-align: right"> (2022.06 ~ 2023.11) </div>
 - **Project Manager** at **Korea University**
 - Supported by **Minigate Corporation**
 - Machine Translation, Data Analysis, Automated Evaluation
 
 #### **NLP for Ancient Korean Common Literati Document - Phase 1**
-<div style="text-align: right"> (2022.06 ~ 2023.03) </div>
+<div style="text-align: right"> (2022.06 ~ 2023.02) </div>
 - **Project Manager** at **Korea University**
 - Supported by **National Research Foundation**
 - Named Entity Recognition, Document Analysis, Data Curation
-
 
 ---
 # **2021**

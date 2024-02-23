@@ -2,7 +2,7 @@
 layout: profiles
 permalink: /people/
 title: projects
-description: Inter-Company Collaborative projects 👷 In process 👷‍️
+description: Inter-Company Collaborative projects & Teaching Experience
 nav: true
 nav_order: 7
 
