@@ -1,8 +1,8 @@
 ---
-# ** -- 2024 -- **
+# ** - 2024 - **
 
 ---
-# ** -- 2023 -- **
+# ** - 2023 - **
 
 #### **Teaching Assistant: NLP for digital finance engineering (DFE610-00)**
 <div style="text-align: right"> (2023.09 ~ 2023.12) </div>
@@ -27,12 +27,12 @@
 - k-Nearest-Neighbor Language Modeling, Persona-based Dialogue System
 
 #### **Multi-lingual Automated YouTube Subtitle Generation and Interpretation Companion**
-<div style="color:#B5C0D0; text-align:right;">(2023.10 ~ 2023.12)</div>
+<div style="color:#B5C0D0; text-align:right; font-weight:bold; font-style:italic;">(2023.10 ~ 2023.12)</div>
 - **Researcher** at **Korea University**
 - Automated Subtitle Generation System
-B5C0D0
+
 ---
-# ** -- 2022 -- **
+# ** - 2022 - **
 
 #### **User Query based Recommendation System**
 <div style="text-align: right"> (2022.03 ~ 2023.01) </div>
@@ -77,7 +77,7 @@ B5C0D0
 - Named Entity Recognition, Document Analysis, Data Curation
 
 ---
-# ** -- 2021 -- **
+# ** - 2021 - **
 
 #### **Parallel Corpus Filtering and Mining Research Project**
 <div style="text-align: right"> (2021.12 ~ 2022.07) </div>
