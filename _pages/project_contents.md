@@ -1,6 +1,17 @@
 ---
 # ** - 2024 - **
 
+#### **NLP for Ancient Korean Common Literati Document - Phase 3**
+<div style="text-align: right"> (2024.03 ~ ) </div>
+- **Project Manager** at **Korea University**
+- Supported by [[**National Research Foundation**]]
+- Named Entity Recognition, Document Analysis, Data Curation
+
+#### **KULLM - Korean Large Language Model**
+<div style="color:#B5C0D0; text-align:right; font-weight:bold; font-style:italic;">(2023.10 ~ 2023.12)</div>
+- **Researcher** at **Korea University**
+- Large Langauge Model, Instruction Tuning
+
 ---
 # ** - 2023 - **
 
