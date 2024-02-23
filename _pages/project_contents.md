@@ -2,15 +2,22 @@
 # **- 2024 -**
 
 #### **NLP for Ancient Korean Common Literati Document - Phase 3**
-<div style="color:#C68484; text-align:right; font-weight:bold; font-style:italic;">In Progress (2024.03 ~ )</div>
+<div style="color:#C68484; text-align:right; font-weight:bold; font-style:italic;">In Progress (2024.02 ~ )</div>
 - **Project Manager** at **Korea University**
 - Supported by [[**National Research Foundation**]]
 - Named Entity Recognition, Document Analysis, Data Curation
+
+#### **Domain Specialized Large Language Model with RAG System**
+<div style="color:#C68484; text-align:right; font-weight:bold; font-style:italic;">In Progress (2024.02 ~ )</div>
+- **Project Manager** at **Korea University**
+- Supported by [[**URP Corporation**]]
+- Large Language Model, Retrieval Augmented Generation, Information Retrieval, Domain Speicalization
 
 #### **KULLM - Korean Large Language Model**
 <div style="color:#B5C0D0; text-align:right; font-weight:bold; font-style:italic;">Completed (2023.10 ~ 2023.12)</div>
 - **Researcher** at **Korea University**
 - Large Langauge Model, Instruction Tuning
+
 
 
 ---
