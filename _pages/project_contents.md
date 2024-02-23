@@ -1,13 +1,11 @@
 
 # **2022**
 
-### **- Hyundai Motors**
-  (2021.12 ~ 2022.06)
-#### Subject: 
-#### Role: d
-#### Contents: d
-- dd
-- dd
+### **Korean-Prompt-based Engineering for Few-shot Research Project**
+<div dir="rtl">(2021.12 ~ 2022.06)</div>
+- Supported by **Hyundai Motors** 
+- **Researcher** at **Korea University**
+- Skill: Prompt Engineering, Few-shot Learning, Natural Language Understanding
 
 ---
 # **2021**
