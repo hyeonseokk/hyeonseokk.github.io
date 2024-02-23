@@ -124,13 +124,20 @@
 - Supported by [[ **LG Innotek** ]]
 - Automatic Summarization, Sentence classification, Information Extraction
 
----
-# **2020 ~**
-<br>
+[//]: # (---)
 
-#### **Security Domain Specialized Neural Machine Translation**
-<div style="color:#B5C0D0; text-align:right; font-weight:bold; font-style:italic;">Completed (2020.05 ~ 2020.07)</div>
-- **<span style="color:#474F7A">Researcher</span>** at **Korea University**
-- Supported by [[ **National Security Research Institute** ]]
-- Machine Translation, Domain Specialization, Low Resource Setting
+[//]: # (# **2020 ~**)
+
+[//]: # (<br>)
+
+[//]: # ()
+[//]: # (#### **Security Domain Specialized Neural Machine Translation**)
+
+[//]: # (<div style="color:#B5C0D0; text-align:right; font-weight:bold; font-style:italic;">Completed &#40;2020.05 ~ 2020.07&#41;</div>)
+
+[//]: # (- **<span style="color:#474F7A">Researcher</span>** at **Korea University**)
+
+[//]: # (- Supported by [[ **National Security Research Institute** ]])
+
+[//]: # (- Machine Translation, Domain Specialization, Low Resource Setting)
 
