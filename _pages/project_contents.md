@@ -25,11 +25,23 @@
 - Supported by **ETRI**
 - Question Answering, Information Retrieval, Long Form Text
 
-#### **Long-Form Specializing Question Answering System**
-<div style="text-align: right"> (2022.07 ~ 2023.03) </div>
+#### **Automated Data Generation for Educational Question-Answer**
+<div style="text-align: right"> (2022.03 ~ 2023.02) </div>
 - **Researcher** at **Korea University**
-- Supported by **ETRI**
-- Question Answering, Information Retrieval, Long Form Text
+- Supported by **Hyundai Motors**
+- Question Answering, Automated Data Construction, Education Specialized
+
+#### **Domain Specialized Parallel Corpus Construction for Machine Translation**
+<div style="text-align: right"> (2022.07 ~ 2023.03) </div>
+- **Project Manager** at **Korea University**
+- Supported by **Minigate Corporation**
+- Machine Translation, Data Analysis, Automated Evaluation
+
+#### **NLP for Ancient Korean Common Literati Document - Phase 1**
+<div style="text-align: right"> (2022.06 ~ 2023.03) </div>
+- **Project Manager** at **Korea University**
+- Supported by **National Research Foundation**
+- Named Entity Recognition, Document Analysis, Data Curation
 
 
 ---
