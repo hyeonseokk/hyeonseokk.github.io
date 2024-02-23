@@ -6,7 +6,7 @@ subtitle: <a href='https://portal.korea.ac.kr/'>Korea University</a>. Ph.D. Cand
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: prof_pic.jpeg
   image_circular: false # crops the image to make it circular
   more_info: >
     
