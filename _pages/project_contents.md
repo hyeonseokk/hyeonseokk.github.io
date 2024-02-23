@@ -13,7 +13,7 @@
 - Supported by [[ **URP Corporation** ]]
 - Large Language Model, Retrieval Augmented Generation, Information Retrieval, Domain Speicalization
 
-#### **KULLM - Korean Large Language Model**
+#### **KULLM_v2 - Korean Large Language Model**
 <div style="color:#C68484; text-align:right; font-weight:bold; font-style:italic;">In Progress (2024.01 ~ )</div>
 - **<span style="color:#474F7A">Researcher</span>** at **Korea University**
 - Large Langauge Model, Instruction Tuning
