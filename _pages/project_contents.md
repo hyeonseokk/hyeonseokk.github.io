@@ -11,7 +11,7 @@
 #### **NLP for Ancient Korean Common Literati Document - Phase 2**
 <div style="text-align: right"> (2023.03 ~ 2024.02) </div>
 - **Project Manager** at **Korea University**
-- Supported by **National Research Foundation**
+- Supported by [[**National Research Foundation**]]
 - Named Entity Recognition, Document Analysis, Data Curation
 
 #### **Instruction Tuning for Korean Large Language Models**
