@@ -6,7 +6,7 @@ subtitle: <a href='https://portal.korea.ac.kr/'>Korea University</a>. Ph.D. Cand
 
 profile:
   align: right
-  image: prof_pic.jpeg
+  image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
     
@@ -24,11 +24,11 @@ Advised by Prof. <a href='https://scholar.google.com/citations?user=HMTkz7oAAAAJ
 
 #### **Education**
 - **2024.02. - now** Ph.D candidate in Computer Science <br>
-  &nbsp;&nbsp;&nbsp;&nbsp; at Korea University, South Korea
+  &nbsp;&nbsp;&nbsp;&nbsp; at **Korea University**, South Korea
 - **2015.03. - 2021.02.** B.A Degree of Science in Mathematics  <br>
-  &nbsp;&nbsp;&nbsp;&nbsp; at Korea University, South Korea
+  &nbsp;&nbsp;&nbsp;&nbsp; at **Korea University**, South Korea
 - **2015.03. - 2021.02.** B.A Degree of Science in Artificial Intelligence <br>
-  &nbsp;&nbsp;&nbsp;&nbsp; at Korea University, South Korea
+  &nbsp;&nbsp;&nbsp;&nbsp; at **Korea University**, South Korea
 
 #### **Research Interest**
 - Artificial Intelligence
