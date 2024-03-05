@@ -3,7 +3,7 @@
 <br>
 
 #### **NLP for Ancient Korean Common Literati Document - Phase 3**
-<div style="color:#637A9F; text-align:right; font-weight:bold; font-style:italic;">In Progress (2024.02 ~ )</div>
+<div style="color:#637A9F; text-align:right; font-weight:bold; font-style:italic;">In Progress (2024.03 ~ )</div>
 - **<span style="color:#9B4444">Project Manager</span>** at **Korea University**
 - Supported by [[ **National Research Foundation** ]]
 - Named Entity Recognition, Document Analysis, Data Curation

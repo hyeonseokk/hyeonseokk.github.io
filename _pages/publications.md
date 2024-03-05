@@ -7,8 +7,7 @@ nav: true
 nav_order: 1
 ---
 Mainly focusing on the **Natural Language Processing**
-
-## Top Conference & International Journal
+Selected papers presented to the Top Conferences & International Journal
 
 <!-- _pages/publications.md -->
 <div class="publications">
