@@ -2,20 +2,34 @@
 # **2024 ~**
 <br>
 
+#### **Research on the Reliability and Coherence of Outcomes Produced by Generative AI**
+<div style="color:#637A9F; text-align:right; font-weight:bold; font-style:italic;">In Progress (2024.07 ~ )</div>
+- **<span style="color:#9F70FD">Leading Technician</span>** at **Korea University**
+- Supported by [[ **IITP** ]]
+- Large Language Model, Hallucination Detection, Hallucination-relieved Generation
+
+#### **Domain Specialized Large Language Model**
+<div style="color:#637A9F; text-align:right; font-weight:bold; font-style:italic;">In Progress (2024.07 ~ )</div>
+- **<span style="color:#474F7A">Researcher</span>** at **Korea University**
+- Supported by [[ **KT** ]]
+- Large Language Model, Domain Speicalization
+
+#### **Teaching Assistant: Introduction to Natural Language Processing In Big Data (BDC101-00)**
+<div style="color:#B5C0D0; text-align:right; font-weight:bold; font-style:italic;">Completed (2024.03 ~ 2024.06)</div>
+- **TA** at **Korea University**
+
+#### **Teaching Assistant: Natural Language Processing (COSE461-02)**
+<div style="color:#B5C0D0; text-align:right; font-weight:bold; font-style:italic;">Completed (2024.03 ~ 2024.06)</div>
+- **TA** at **Korea University**
+
 #### **NLP for Ancient Korean Common Literati Document - Phase 3**
-<div style="color:#637A9F; text-align:right; font-weight:bold; font-style:italic;">In Progress (2024.03 ~ )</div>
+<div style="color:#B5C0D0; text-align:right; font-weight:bold; font-style:italic;">Completed (2024.03 ~ 2024.07)</div>
 - **<span style="color:#9B4444">Project Manager</span>** at **Korea University**
 - Supported by [[ **National Research Foundation** ]]
 - Named Entity Recognition, Document Analysis, Data Curation
 
-#### **Domain Specialized Large Language Model with RAG System**
-<div style="color:#637A9F; text-align:right; font-weight:bold; font-style:italic;">In Progress (2024.02 ~ )</div>
-- **<span style="color:#474F7A">Researcher</span>** at **Korea University**
-- Supported by [[ **URP Corporation** ]]
-- Large Language Model, Retrieval Augmented Generation, Information Retrieval, Domain Speicalization
-
-#### **KULLM_v2 - Korean Large Language Model**
-<div style="color:#637A9F; text-align:right; font-weight:bold; font-style:italic;">In Progress (2024.01 ~ )</div>
+#### **KULLM_v2,3 - Korean Large Language Model**
+<div style="color:#637A9F; text-align:right; font-weight:bold; font-style:italic;">In Progress (2024.01 ~ 2024.07)</div>
 - **<span style="color:#474F7A">Researcher</span>** at **Korea University**
 - Large Langauge Model, Instruction Tuning
 
