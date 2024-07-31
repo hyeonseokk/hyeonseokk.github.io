@@ -29,7 +29,7 @@
 - Named Entity Recognition, Document Analysis, Data Curation
 
 #### **KULLM_v2,3 - Korean Large Language Model**
-<div style="color:#637A9F; text-align:right; font-weight:bold; font-style:italic;">In Progress (2024.01 ~ 2024.07)</div>
+<div style="color:#B5C0D0; text-align:right; font-weight:bold; font-style:italic;">Completed (2024.01 ~ 2024.07)</div>
 - **<span style="color:#474F7A">Researcher</span>** at **Korea University**
 - Large Langauge Model, Instruction Tuning
 
