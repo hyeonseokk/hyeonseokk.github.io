@@ -31,7 +31,8 @@ Advised by Prof. <a href='https://scholar.google.com/citations?user=HMTkz7oAAAAJ
   &nbsp;&nbsp;&nbsp;&nbsp; at Korea University, South Korea
 
 #### **Research Interest**
-- Artificial Intelligence
-- Natural Language Processing
-- Machine Translation
+- Language Resource and Evaluation
+- Large Language Model
+- Model Evaluation
+- Data Management and Engineering
 - Language Generation
