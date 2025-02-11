@@ -2,17 +2,23 @@
 # **2024 ~**
 <br>
 
+#### **AI Consultant**
+<div style="color:#637A9F; text-align:right; font-weight:bold; font-style:italic;">In Progress (2024.08 ~ )</div>
+- **<span style="color:#9B4444">Project Manager</span>** at **Korea University**
+- Supported by [[ **Creative Digital Lab** ]]
+- Large Language Model, Instruction Tuning
+
 #### **Research on the Reliability and Coherence of Outcomes Produced by Generative AI**
 <div style="color:#637A9F; text-align:right; font-weight:bold; font-style:italic;">In Progress (2024.07 ~ )</div>
 - **<span style="color:#9F70FD">Leading Technician</span>** at **Korea University**
 - Supported by [[ **IITP** ]]
 - Large Language Model, Hallucination Detection, Hallucination-relieved Generation
 
-#### **Domain Specialized Large Language Model**
+#### **Korean Legal Vertical Large Language Model**
 <div style="color:#637A9F; text-align:right; font-weight:bold; font-style:italic;">In Progress (2024.07 ~ )</div>
-- **<span style="color:#474F7A">Researcher</span>** at **Korea University**
+- **<span style="color:#9B4444">Project Manager</span>** at **Korea University**
 - Supported by [[ **KT** ]]
-- Large Language Model, Domain Speicalization
+- Large Language Model, Domain Specialization, Instruction Tuning
 
 #### **Teaching Assistant: Introduction to Natural Language Processing In Big Data (BDC101-00)**
 <div style="color:#B5C0D0; text-align:right; font-weight:bold; font-style:italic;">Completed (2024.03 ~ 2024.06)</div>
