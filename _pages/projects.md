@@ -11,6 +11,9 @@ pagination:
   enabled: true
 ---
 
+<!-- pages/projects_prev.md -->
+
+<div class="projects">
 
 # **2024 ~**
 <br>
@@ -156,6 +159,8 @@ pagination:
 - **<span style="color:#9F70FD">Leading Technician</span>** at **Korea University**
 - Supported by [[ **LG Innotek** ]]
 - Automatic Summarization, Sentence classification, Information Extraction
+
+</div>
 
 [//]: # (---)
 
