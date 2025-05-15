@@ -6,7 +6,7 @@ subtitle: Korea University. <a href='#'>NLP&AI Lab</a>.
 
 profile:
   align: right
-  image: moon.png
+  image: moon.jpg
   image_circular: false # crops the image to make it circular
 #  more_info: >
 #    <p>555 your office number</p>
