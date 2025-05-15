@@ -1,14 +1,10 @@
 ---
 layout: page
-title: projects
+title: Projects
 permalink: /projects/
 description: Project Experience with Several Companies
 nav: true
 nav_order: 3
-horizontal: false
-category: work
-pagination:
-  enabled: true
 ---
 
 # **2024 ~**
@@ -19,3 +15,7 @@ pagination:
 - **<span style="color:#9B4444">Project Manager</span>** at **Korea University**
 - Supported by [[ **Creative Digital Lab** ]]
 - Large Language Model, Instruction Tuning
+horizontal: false
+category: work
+pagination:
+  enabled: true
