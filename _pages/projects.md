@@ -2,11 +2,11 @@
 layout: page
 title: projects
 permalink: /projects/
-description: Experience & Projects with Companies
+description: Project Experience with Several Companies
 nav: true
 nav_order: 3
-display_categories: [work, fun]
 horizontal: false
+category: work
 pagination:
   enabled: true
 ---
