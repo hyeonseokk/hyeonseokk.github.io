@@ -17,11 +17,11 @@ ninja.data = [{
             window.location.href = "/publications/";
           },
         },{id: "nav-projects",
-          title: "projects",
+          title: "Projects",
           description: "Project Experience with Several Companies",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/projects/index.html";
+            window.location.href = "/projects/";
           },
         },{id: "books-the-godfather",
           title: 'The Godfather',
