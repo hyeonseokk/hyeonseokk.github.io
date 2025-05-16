@@ -11,32 +11,14 @@ nav_order: 3
 <br>
 <table>
 <tr>
-<th> Good </th>
-<th> Bad </th>
-</tr>
-<tr>
-<td>
-
-```c++
-int foo() {
-    int result = 4;
-    return result;
-}
-```
-
-</td>
-<td>
-
-```c++
-int foo() { 
-    int x = 4;
-    return x;
-}
-```
-
-</td>
+<th> #### **AI Consultant** </th>
+<th> <div style="color:#637A9F; text-align:right; font-weight:bold; font-style:italic;">In Progress (2024.08 ~ )</div> </th>
 </tr>
 </table>
+- **<span style="color:#9B4444">Project Manager</span>** at **Korea University**
+- Supported by [[ **Creative Digital Lab** ]]
+- Large Language Model, Instruction Tuning
+
 
 ---
 # **2024 ~**
