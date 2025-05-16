@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
 subtitle: Korea University. <a href='#'>NLP&AI Lab</a>. 
 
