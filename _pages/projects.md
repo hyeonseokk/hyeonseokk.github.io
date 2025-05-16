@@ -8,16 +8,17 @@ nav_order: 3
 ---
 
 # **2025 ~**
+#### **AI Consultant** 
 <br>
 <table>
 <tr>
-<th> #### **AI Consultant** </th>
+<th> - **<span style="color:#9B4444">Project Manager</span>** at **Korea University**
+- Supported by [[ **Creative Digital Lab** ]]
+- Large Language Model, Instruction Tuning</th>
 <th> <div style="color:#637A9F; text-align:right; font-weight:bold; font-style:italic;">In Progress (2024.08 ~ )</div> </th>
 </tr>
 </table>
-- **<span style="color:#9B4444">Project Manager</span>** at **Korea University**
-- Supported by [[ **Creative Digital Lab** ]]
-- Large Language Model, Instruction Tuning
+
 
 
 ---
