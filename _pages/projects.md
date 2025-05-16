@@ -7,13 +7,19 @@ nav: true
 nav_order: 3
 ---
 
-# **2024 ~**
+# **2025 ~**
 <br>
 
+
+---
 # **2024 ~**
 <br>
 
 #### **AI Consultant**
+ <tr>
+    <td><b style="font-size:30px">Title</b></td>
+    <td><b style="font-size:30px">Title 2</b></td>
+ </tr>
 <div style="color:#637A9F; text-align:right; font-weight:bold; font-style:italic;">In Progress (2024.08 ~ )</div>
 - **<span style="color:#9B4444">Project Manager</span>** at **Korea University**
 - Supported by [[ **Creative Digital Lab** ]]
