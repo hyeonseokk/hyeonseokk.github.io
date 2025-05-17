@@ -16,13 +16,6 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/publications/";
           },
-        },{id: "nav-projects",
-          title: "Projects",
-          description: "Collaborative Project with Companies",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/projects/";
-          },
         },{id: "books-the-godfather",
           title: 'The Godfather',
           description: "",
@@ -85,6 +78,41 @@ ninja.data = [{
           section: "Projects",handler: () => {
               window.location.href = "/projects/9_project/";
             },},{
+        id: 'social-email',
+        title: 'email',
+        section: 'Socials',
+        handler: () => {
+          window.open("mailto:%67%6C%65%65%38%38%39@%6B%6F%72%65%61.%61%63.%6B%72", "_blank");
+        },
+      },{
+        id: 'social-github',
+        title: 'GitHub',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://github.com/hyeonseokk", "_blank");
+        },
+      },{
+        id: 'social-linkedin',
+        title: 'LinkedIn',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://www.linkedin.com/in/hyeonseok-moon-nlp", "_blank");
+        },
+      },{
+        id: 'social-rss',
+        title: 'RSS Feed',
+        section: 'Socials',
+        handler: () => {
+          window.open("/feed.xml", "_blank");
+        },
+      },{
+        id: 'social-scholar',
+        title: 'Google Scholar',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://scholar.google.com/citations?user=queGQ5UAAAAJ", "_blank");
+        },
+      },{
       id: 'light-theme',
       title: 'Change theme to light',
       description: 'Change the theme of the site to Light',
