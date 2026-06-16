@@ -2,7 +2,9 @@
 layout: about
 title: About
 permalink: /
-subtitle: Korea University. <a href='#'>NLP&AI Lab</a>. 
+subtitle: Samsung Electronics. Language AI Team
+
+#<a href='#'>NLP&AI Lab</a>. 
 
 profile:
   align: right
