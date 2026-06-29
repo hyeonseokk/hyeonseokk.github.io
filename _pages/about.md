@@ -42,7 +42,7 @@ latest_posts:
   &nbsp;&nbsp;&nbsp;&nbsp; at Korea University, South Korea
 - **B.A** Degree of Science in Mathematics  <br>
   &nbsp;&nbsp;&nbsp;&nbsp; at Korea University, South Korea
-- *B.A** Degree of Science in Artificial Intelligence <br>
+- **B.A** Degree of Science in Artificial Intelligence <br>
   &nbsp;&nbsp;&nbsp;&nbsp; at Korea University, South Korea
 
 #### **Research Interest**
