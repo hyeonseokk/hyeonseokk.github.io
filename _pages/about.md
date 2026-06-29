@@ -38,11 +38,11 @@ latest_posts:
 [//]: # (Link to your social media connections, too. This theme is set up to use [Font Awesome icons]&#40;https://fontawesome.com/&#41; and [Academicons]&#40;https://jpswalsh.github.io/academicons/&#41;, like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.)
 
 #### **Education**
-- **2024.02. - 2026.02.** Ph.D in Computer Science <br>
+- **Ph.D** in Computer Science <br>
   &nbsp;&nbsp;&nbsp;&nbsp; at Korea University, South Korea
-- **2015.03. - 2021.02.** B.A Degree of Science in Mathematics  <br>
+- **B.A** Degree of Science in Mathematics  <br>
   &nbsp;&nbsp;&nbsp;&nbsp; at Korea University, South Korea
-- **2015.03. - 2021.02.** B.A Degree of Science in Artificial Intelligence <br>
+- *B.A** Degree of Science in Artificial Intelligence <br>
   &nbsp;&nbsp;&nbsp;&nbsp; at Korea University, South Korea
 
 #### **Research Interest**
